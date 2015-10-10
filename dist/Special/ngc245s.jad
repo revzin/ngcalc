@@ -1,0 +1,9 @@
+MIDlet-1: NGCalcS,/com/grevzin/pct/icon.png,com.grevzin.calc2.NGCalc
+MIDlet-Jar-Size: 101777
+MIDlet-Jar-URL: ngc245s.jar
+MIDlet-Name: NGCalc Special
+MIDlet-Touch-Support: true
+MIDlet-Vendor: Grigory G. Revzin
+MIDlet-Version: 2.4.5
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

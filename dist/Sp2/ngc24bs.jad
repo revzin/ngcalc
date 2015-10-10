@@ -1,0 +1,9 @@
+MIDlet-1: NGCalc Sp Beta,/com/grevzin/pct/icon.png,com.grevzin.calc2.NGCalc
+MIDlet-Jar-Size: 101324
+MIDlet-Jar-URL: ngc24bs.jar
+MIDlet-Name: NGCalc Special Beta
+MIDlet-Touch-Support: true
+MIDlet-Vendor: Grigory G. Revzin
+MIDlet-Version: 2.4.2
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

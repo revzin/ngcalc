@@ -1,0 +1,9 @@
+MIDlet-1: RBCalc,/icon.png,com.grevzin.calc2.NGCalc
+MIDlet-Jar-Size: 101310
+MIDlet-Jar-URL: rbcalc231.jar
+MIDlet-Name: RBCalc
+MIDlet-Touch-Support: true
+MIDlet-Vendor: Grigory G. Revzin
+MIDlet-Version: 2.3.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
